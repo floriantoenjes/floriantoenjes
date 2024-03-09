@@ -8,7 +8,7 @@ I am also an AI enthusiast and own a couple of renowned certificatons in that fi
 - 🔭 I’m currently working on a What's App clone written in TypeScript with React and NestJS, I might switch soon though as I am starting to find that there's not much new for me to learn and grow there.
 - 👯 I’m looking to collaborate on interesting open source projects in my free time. Just opened my first PR for the NestJS framework.
 - 💬 Ask me about: How to get started in the software industry without a highschool diploma having only a bunch of passion.
-- 🌱 I’m currently doing the Generative Adversarial Networks Specialisation of deeplearning.ai and am almost done with that.
+- 🌱 I just finished the Generative Adversarial Networks Specialisation of deeplearning.ai and started the Generative AI with Large Language Models certificate.
 - ⚡ Fun fact: If you do Brazilian Jiu Jitsu, lets roll some day!
 
 <!--
