@@ -3,9 +3,9 @@ I started coding Java in 2008 at age 16, quit school at 17, and got into web tec
 
 ## More about me
 
-- 🔭 I’m currently working on a What's App clone written in TypeScript with React and NestJS, I might switch soon though as I am starting to find that there's not much new for me to learn and grow there.
+- 🔭 I’m currently working on a What's App clone written in TypeScript with React and NestJS which I just updated to run scalable on a Kubernetes cluster.
 - 👯 I’m looking to collaborate on interesting open source projects in my free time. Just opened my first PR for the NestJS framework.
-- 💬 Ask me about: How to get started in the software industry without a highschool diploma but having a bunch of passion.
+- 💬 Ask me about: How to get started in the software industry without a highschool diploma having only a bunch of passion.
 
 <!--
 **floriantoenjes/floriantoenjes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
